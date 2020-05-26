@@ -1,5 +1,5 @@
 # php-ios
-php compiled for newer iOS/devices 
+php 7.4.6 compiled for newer iOS/devices 
 
 iOS13 arch64 compiled php cli since i couldn't find one anywhere..you can go ahead and grab the binary (already signed/entitled) or compile yourself with the sh script
 
